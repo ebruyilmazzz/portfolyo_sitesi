@@ -1,5 +1,8 @@
 # portfolyo_sitesi
 Django ile Portfolyo Sitesi
+Sunucuyu Başlatın:  python manage.py runserver
+Tarayıcınızda http://127.0.0.1:8000/ adresine giderek sitenizi görebilirsiniz.
+ 
 
 ![4](https://github.com/user-attachments/assets/767658c0-f8db-4652-b8ec-10c04aa2e1cb)
 ![3](https://github.com/user-attachments/assets/71b66516-c22b-4ff1-85f4-7dca18f18e9e)
